@@ -84,7 +84,7 @@ Planned enhancements for future versions include:
 
 ---
 
-##<img width="1632" height="1325" alt="Apex Dashboard" src="https://github.com/user-attachments/assets/dc6962c8-126b-433a-86b6-bca26e6a2025" />
+<img width="1632" height="1325" alt="Apex Dashboard" src="https://github.com/user-attachments/assets/dc6962c8-126b-433a-86b6-bca26e6a2025" />
  Repository Contents
 
 ```text
