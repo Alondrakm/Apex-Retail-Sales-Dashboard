@@ -1,7 +1,7 @@
 # Apex-Retail-Sales-Dashboard
 ## Dashboard Preview
 
-![Apex Retail Sales Dashboard](Apex Dashboard.png)
+![Apex Retail Sales Dashboard Preview](Apex%20Dashboard.png)
 
 
 An interactive retail sales dashboard built in Microsoft Excel to analyze sales performance, profitability, product categories, regional trends, and payment methods. The dashboard transforms raw transactional data into actionable business insights through interactive filtering and visual reporting.
